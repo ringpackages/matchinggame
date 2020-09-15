@@ -2,14 +2,14 @@ aPackageInfo = [
 	:name = "The matchinggame Package",
 	:description = "Our matchinggame package using the Ring programming language",
 	:folder = "matchinggame",
-	:developer = "",
-	:email = "",
+	:developer = "Mahmoud Fayed",
+	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
-	:version = "1.0.1",
+	:version = "1.0.2",
 	:ringversion = "1.13",
 	:versions = 	[
 		[
-			:version = "1.0.1",
+			:version = "1.0.2",
 			:branch = "master"
 		]
 	],
